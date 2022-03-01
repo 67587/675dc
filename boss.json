@@ -1,0 +1,25 @@
+{
+"1": {"name": "小白z","level":20, "hp": 1500, "atk": 31, "def": 53, "lucky": 30,"giveMoney":600,"giveExp":200,"skill":["汪汪"]}, 
+"2": {"name": "花花","level":30, "hp": 2500, "atk": 57, "def": 87, "lucky": 50,"giveMoney":1200,"giveExp":400,"skill":["喵喵"]}, 
+"3": {"name": "晨晨","level":40, "hp": 3500, "atk": 102, "def": 113, "lucky": 60,"giveMoney":1700,"giveExp":600,"skill":["斷掉啦 Glasses"]}, 
+"4": {"name": "Miss 003","level":50, "hp": 5500, "atk": 165, "def": 145, "lucky": 80,"giveMoney":3000,"giveExp":1000,"skill":["你不會更新你要先講"]}, 
+"5": {"name": "法官劉X駿","level":70, "hp": 8500, "atk": 201, "def": 177, "lucky": 120,"giveMoney":6000,"giveExp":1500,"skill":["全台灣每個法官都會判你有罪"]}, 
+"6": {"name": "統爸統媽雙人組","level":85, "hp": 10000, "atk": 345, "def": 303, "lucky": 150,"giveMoney":8000,"giveExp":3000,"skill":["我兒子有病"]}, 
+"7": {"name": "亞洲統神","level":99, "hp": 15000, "atk": 800, "def": 500, "lucky": 600,"giveMoney":9000,"giveExp":7000,"skill":["你去找個會玩的來看","賴皮大法-這場不算啦"]}, 
+"8": {"name": "臭VT豚","level":150, "hp": 99999, "atk": 1500, "def": 1500, "lucky": 300,"giveMoney":12000,"giveExp":7500,"skill":["滑倒"]}, 
+"9": {"name": "惡臭VT豚隊長","level":250, "hp": 129999, "atk": 2500, "def": 2000, "lucky": 450,"giveMoney":15000,"giveExp":8500,"skill":["滑倒"]},
+"10": {"name": "油臭VT豚將軍","level":325, "hp": 145000, "atk": 3000, "def": 2500, "lucky": 550,"giveMoney":17000,"giveExp":9500,"skill":["滑倒"]},
+"11": {"name": "油死人VT統帥","level":400, "hp": 170000, "atk": 3500, "def": 3500, "lucky": 50,"giveMoney":20000,"giveExp":12500,"skill":["滑倒","滑到摔死"]},
+"12": {"name": "台肥新產品","level":450, "hp": 200000, "atk": 4250, "def": 4000, "lucky": 700,"giveMoney":30000,"giveExp":14000,"skill":["QRQ","賴皮大法-這場不算啦"]},
+"13": {"name": "鼻地大師","level":500, "hp": 230000, "atk": 4350, "def": 4100, "lucky": 650,"giveMoney":34000,"giveExp":15000,"skill":["無情BD"]},
+"14": {"name": "脫椅子","level":555, "hp": 260000, "atk": 4600, "def": 4300, "lucky": 800,"giveMoney":39000,"giveExp":17500,"skill":["222222"]},
+"15": {"name": "dinnter","level":570, "hp": 280000, "atk": 4750, "def": 4500, "lucky": 900,"giveMoney":42000,"giveExp":19000,"skill":["我這一刀下去你會死"]},
+"16": {"name": "(高難易度!)比利","level":600, "hp": 350000, "atk": 5000, "def": 4700, "lucky": 600,"giveMoney":50000,"giveExp":24000,"skill":["利五炭及某"]},
+"17": {"name": "張家三弟(超負2荷)","level":595, "hp": 325000, "atk": 4900, "def": 4650, "lucky": 1200,"giveMoney":45000,"giveExp":22000,"skill":["空幹"]},
+"18": {"name": "蝦bebe","level":630, "hp": 345000, "atk": 5100, "def": 4850, "lucky": 1200,"giveMoney":48500,"giveExp":23500,"skill":["找個會玩的"]}
+
+
+
+
+
+}
